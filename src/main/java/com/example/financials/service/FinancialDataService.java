@@ -23,16 +23,4 @@ public class FinancialDataService {
     }
 
 
-//    public byte[] convertChartToByteArray(JFreeChart chart) {
-//        byte[] chartBytes = null;
-//        try (ByteArrayOutputStream outputStream = new ByteArrayOutputStream()) {
-//            ChartUtilities.writeChartAsPNG(outputStream, chart, width, height);
-//            chartBytes = outputStream.toByteArray();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//        return chartBytes;
-//    }
-
-    // Implement other methods for calculations and filtering as per requirements
 }
